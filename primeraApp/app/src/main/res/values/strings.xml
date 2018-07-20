@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Perro</string>
+    <string name="H1"><b>EL MAPA</b></string>
+    <string name="title_activity_mapa__cultura">Map</string>
+</resources>
